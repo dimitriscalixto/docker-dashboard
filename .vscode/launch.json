@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-DockerDashboardApplication<docker-dashboard>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.dimitris.docker_dashboard.DockerDashboardApplication",
+      "projectName": "docker-dashboard",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
